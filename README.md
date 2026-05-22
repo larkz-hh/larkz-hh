@@ -23,7 +23,7 @@
 </tr>
 </table>
 
-🛠 Languages and Tools
+## 🛠 Languages and Tools
 
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
