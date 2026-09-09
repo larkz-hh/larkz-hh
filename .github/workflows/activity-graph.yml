@@ -16,9 +16,17 @@ jobs:
 
       - name: Fetch activity graph SVG
         run: |
-          curl -sL -o profile/activity-graph.svg \
-            "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=github-compact"
-          grep -q '<svg' profile/activity-graph.svg
+          URL="https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=github-compact"
+          echo "== fetching: $URL"
+          curl -sSL --retry 2 --connect-timeout 20 \
+            -o profile/activity-graph.svg \
+            -w "HTTP code: %{http_code}, size: %{size_download} bytes\n" \
+            "$URL"
+          echo "== first 300 bytes of response =="
+          head -c 300 profile/activity-graph.svg 2>/dev/null || echo "(empty or missing file)"
+          echo ""
+          echo "== checking it is an SVG =="
+          grep -q '<svg' profile/activity-graph.svg && echo "OK: valid SVG"
 
       - name: Commit graph
         run: |
