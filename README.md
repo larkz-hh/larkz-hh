@@ -17,7 +17,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-immortality.vercel.app/api?username=larkz-hh" width="100%" />
+<img src="./profile/stats.svg" width="100%" />
 
 </td>
 </tr>
@@ -41,15 +41,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://gh-stats-kappa.vercel.app/api?username=larkz-hh&show_icons=true&card_width=500" width="100%" />
+      <img src="./profile/stats.svg" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://gh-stats-kappa.vercel.app/api/top-langs/?username=larkz-hh&layout=compact&hide=html,css,scss&card_width=500" width="100%" />
+      <img src="./profile/top-langs.svg" width="100%" />
     </td>
   </tr>
 </table>
 
-[![MyGO-Mujica's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=larkz-hh&theme=github-compact)](https://github.com/Concorde0/github-readme-activity-graph)
+[![larkz-hh's github activity graph](./profile/activity-graph.svg)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
   ## 📫Connect
 
