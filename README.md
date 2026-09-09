@@ -55,6 +55,8 @@ I love meeting new people! Reach me through:
 
 ✉ Email: [3632378642@qq.com](mailto:3632378642@qq.com)
 
+🌐 Blog: [larkzhh.xyz](https://www.larkzhh.xyz/)
+
 
 <!--
 **larkz-hh/larkz-hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
