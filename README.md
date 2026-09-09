@@ -17,7 +17,7 @@
 </td>
 <td width="50%" align="center">
 
-<img src="./profile/stats.svg" width="100%" />
+<img src="https://github-immortality.vercel.app/api?username=larkz-hh" width="100%" />
 
 </td>
 </tr>
@@ -48,8 +48,6 @@
     </td>
   </tr>
 </table>
-
-[![larkz-hh's github activity graph](./profile/activity-graph.svg)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
   ## 📫Connect
 
