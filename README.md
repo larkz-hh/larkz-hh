@@ -53,7 +53,9 @@
 
 I love meeting new people! Reach me through:
 
-✉ Email: [3632378642@qq.com](mailto:3632378642@qq.com)
+✉ Email:
+- [3632378642@qq.com](mailto:3632378642@qq.com)
+- [2110014829@qq.com](mailto:2110014829@qq.com)
 
 🌐 Blog: [larkzhh.xyz](https://www.larkzhh.xyz/)
 
